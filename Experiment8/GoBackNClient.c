@@ -56,3 +56,5 @@ int main()
     }
 
     close(c_sock);
+    return 0;
+}
